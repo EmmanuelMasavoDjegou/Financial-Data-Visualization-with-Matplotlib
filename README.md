@@ -1,2 +1,6 @@
 # Mastering-2D-Data-Visualization-Exploring-the-Matplotlib-Library-for-Dynamic-Financial-Insights
-In this project, we delved into the powerful visualization capabilities of matplotlib package. Our focus was on harnessing various static 2D plotting techniques, useful to gain meaningful insights from financial data.
+
+![Unknown-2](https://github.com/user-attachments/assets/a9dd634d-4972-432c-8bc7-8013674ce4c8)
+
+Explored the powerful visualization capabilities of **Matplotlib**, using static 2D plotting techniques to extract meaningful insights from financial data. Full project available on **[Kaggle](https://www.kaggle.com/code/emmanueldjegou/financial-data-science-i-2d-data-visualization?scriptVersionId=136172652)**.
+
