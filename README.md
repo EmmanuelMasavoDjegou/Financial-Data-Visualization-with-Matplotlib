@@ -1,4 +1,4 @@
-# Mastering-2D-Data-Visualization-Exploring-the-Matplotlib-Library-for-Dynamic-Financial-Insights
+📊 **Financial Data Visualization with Matplotlib** 
 
 ![Unknown-2](https://github.com/user-attachments/assets/a9dd634d-4972-432c-8bc7-8013674ce4c8)
 
